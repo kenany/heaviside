@@ -5,7 +5,7 @@ The Heaviside step function.
 ## Example
 
 ``` javascript
-var heaviside = require('heaviside');
+const heaviside = require('heaviside');
 
 heaviside(1);
 // => 1
@@ -32,7 +32,7 @@ $ npm install heaviside
 ## API
 
 ``` javascript
-var heaviside = require('heaviside');
+const heaviside = require('heaviside');
 ```
 
 ### `heaviside(n)`
